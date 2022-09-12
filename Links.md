@@ -3,7 +3,6 @@
 ## Azure
 
 - [Confidential computing on Azure](https://docs.microsoft.com/en-us/azure/confidential-computing/overview-azure-products)
-- [GearUp: Azure Confidential Computing](https://gearup.microsoft.com/product/azure-confidential-computing?tab=overview)
 - [Common confidential computing use cases](https://docs.microsoft.com/en-us/azure/confidential-computing/use-cases-scenarios)
 - [Quickstart: Create a confidential VM (AMD SEV-SNP) in the Azure portal](https://docs.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-portal-amd)
 - [Quickstart: Deploy a confidential VM (AMD SEV-SNP) with an ARM template](https://docs.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-arm-amd)
